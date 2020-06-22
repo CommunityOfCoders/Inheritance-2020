@@ -19,8 +19,7 @@ Add your description here. Don't forget to replace the link here with **_your ow
 
     Add code here(4 spaces indent)
 
-[Link to repository]
-(https://github.com/your-repo-link)
+[Link to repository](https://github.com/your-repo-link)
 
 ## Screenshots
 Add a few screenshots here to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
