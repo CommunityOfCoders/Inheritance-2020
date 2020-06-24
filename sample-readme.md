@@ -43,6 +43,6 @@ You'll have to link the screenshots from your drive folder here.
 >Include your project setup basics here. Further details can be added to your project repo.
 
 ## Usage
->Include details for your project setup here.
+>Include details for your project usage here.
 
 For more Markdown syntax help, visit [here](https://www.markdownguide.org/basic-syntax/)
