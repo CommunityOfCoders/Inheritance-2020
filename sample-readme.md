@@ -45,11 +45,11 @@ Tools and technologies that you learnt and used in the project.
 ## Usage
 >Steps to run your project once its setup. If you have an app or website, list how the user can go about using it.
 
-## Future scope
->Mention ways in which the project can be improved and built upon in the future.
-
 ## Applications
 >How can your project do its part in solving a real-life problem? What are its possible applications? Decribe here.
+
+## Future scope
+>Mention ways in which the project can be improved and built upon in the future.
 
 ## Screenshots
 Add a few screenshots here to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
