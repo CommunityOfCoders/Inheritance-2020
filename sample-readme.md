@@ -3,10 +3,10 @@
 ### Team name: your-team-name
 
 ## Team members
-* Member-1 [Student ID]
-* Member-2
-* Member-3
-* Member-4
+* Member-1 - Email
+* Member-2 - Email
+* Member-3 - Email
+* Member-4 - Email
 
 ## Mentors
 * Mentor-1
