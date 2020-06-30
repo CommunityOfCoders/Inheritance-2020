@@ -1,3 +1,45 @@
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
-title: "" # the name of your site, e.g. ACME Corp.
+lang: en-US
+title: Saif Kazi
+email: communityofcoders@gmail.com
+description: Inheritance 2020
+baseurl: '/submissions' # remove this when running on localhost, required for gh-pages
+port: 5000
+github_username: CommunityOfCoders
+logo: 'assets/images/logo with name.png'
+
+# BUILD SETTINGS
+markdown: kramdown
+markdown_ext: 'markdown,mkdown,mkdn,mkd,md'
+strict_front_matter : true
+
+exclude:
+  - .asset-cache
+  - .bundle
+  - .codeclimate.yml
+  - .editorconfig
+  - .gitattributes
+  - .jekyll-assets-cache
+  - .sass-cache
+  - .scss-lint.yml
+  - CHANGELOG
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - node_modules
+  - Rakefile
+  - README
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# FRONT MATTER DEFAULTS 
+
+
+# STRUCTURE
+layouts_dir: _layouts
+data_dir: _data
+includes_dir: _includes
+sass:
+  sass_dir: _sass
+
