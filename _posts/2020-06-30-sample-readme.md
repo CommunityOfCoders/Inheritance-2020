@@ -1,3 +1,8 @@
+---
+layout: default
+title: Sample
+permalink: '/sample'
+---
 # Project-name
 
 ### Team name: your-team-name
