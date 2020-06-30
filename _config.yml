@@ -2,7 +2,7 @@ lang: en-US
 title: Saif Kazi
 email: communityofcoders@gmail.com
 description: Inheritance 2020
-baseurl: '/submissions' # remove this when running on localhost, required for gh-pages 
+baseurl: '/Inheritance-2020' 
 port: 5000
 github_username: CommunityOfCoders
 logo: 'assets/images/logo with name.png'

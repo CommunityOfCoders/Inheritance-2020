@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sample
-permalink: '/sample'
+permalink: '/submissions/:title'
 ---
 # Project-name
 
