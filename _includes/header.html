@@ -7,11 +7,16 @@
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
 </head>
-<body style="background-color: #090909; color: white">
+<body>
     <nav class="navbar navbar-expand-lg navbar-dark" style="margin-left:250px">
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="nav navbar-nav ml-auto">
-                <li class="nav-item"><a href="#" class="nav-link"><i class="fa fa-search"></i></a></li>
+                <li class="nav-item">
+                    <form style="display: inline;">
+                        <input type="text" placeholder="Search here" style="display: inline;">
+                        <button class="fa fa-search"></button>
+                    </form>
+                </li>
             
             </ul>
         </div>

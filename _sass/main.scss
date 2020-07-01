@@ -1,34 +1,104 @@
+.main {
+  color: black;
+  margin-left: 230px; /* Same as the width of the sidenav */
 
+}
+h1{
+  padding-bottom: 20px;
+  color: rgb(172, 3, 172);
+  border-bottom: 2px solid black;
+  width: 800px;
+}
+h2{
+  font-size: 23px;
+  padding-bottom: 10px;
+  padding-top: 15px;
+  border-bottom: 1px solid gray;
+  width: 200px;
+}
+
+h3{
+  padding-top: 10px;
+  font-size: 23px;
+  border-bottom: 1px solid gray;
+  width: 400px;
+  margin-left: 0;
+  padding-bottom: 20px;
+}
+img{
+  width: 450px;
+  border-radius: 10px;
+}
+ul{
+  padding-bottom: 18px;
+}
+
+body{
+  background-color: rgb(217, 240, 217);
+}
+i{
+  color: black;
+  float: right;
+}
+button{
+  border: none;
+  background-color: transparent;
+  outline: none;
+}
+pre{
+  background-color: Gainsboro;
+  letter-spacing: 1px;
+  margin: 0px;
+  border: 0px;
+  width: 700px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  border-radius: 7px;
+}
+input{
+  background-color: transparent;
+  outline: none;
+  border: none;
+  width: 250px;
+  border-bottom: 2px solid black;
+  text-align: center;
+}
+
+
+blockquote{
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 40px;
+  margin-right: 40px;
+  border-left: 4px solid lightskyblue;  
+  padding-left: 10px;
+}
 .sidenav {
+    background-color: #404040;
     height: 100%;
-    width: 250px;
+    min-width: 200px;
     position: fixed;
     z-index: 1;
     top: 0;
     left: 0;
-    background-color: #82B09B;
     overflow-x: hidden;
     padding-top: 20px;
+    padding-left: 10px;
   }
   
   .sidenav a {
+    color: #82B09B; 
     padding: 6px 8px 6px 16px;
     text-decoration: none;
     font-size: 18px;
-    color: #090909;
     display: block;
   }
   
   .sidenav a:hover {
-    color: #f1f1f1;
+    color: rgb(149, 220, 243); 
   }
   
-  .main {
-    background-color: #090909;
-    margin-left: 260px; /* Same as the width of the sidenav */
-    font-size: 28px; /* Increased text to enable scrolling */
-    padding: 0px 10px;
-  }
   
   @media screen and (max-height: 450px) {
     .sidenav {padding-top: 15px;}

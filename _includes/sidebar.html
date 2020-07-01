@@ -2,6 +2,6 @@
 <div class="sidenav">
     <a href="{{ '/' | relative_url }}">Home</a>
     {% for post in site.posts %}
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <a href="{{ post.url | relative_url }}">{{ post.title | capitalize }}</a>
     {% endfor %}
 </div>
