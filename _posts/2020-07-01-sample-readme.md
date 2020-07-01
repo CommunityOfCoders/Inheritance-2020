@@ -1,3 +1,8 @@
+---
+title: Sample Readme
+permalink: "/submissions/:title"
+---
+
 # Project-name
 
 ### Team name: your-team-name
