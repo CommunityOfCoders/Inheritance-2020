@@ -18,13 +18,13 @@
     <!-- Submissions link -->
     <li class="menu-item">
       <a href="{{ '/submissions' | relative_url }}" itemprop="url">
-        <span itemprop="name">Submissions</span>
+        <span itemprop="name">Submissions:</span>
       </a>
     </li>
 
     <!-- site.pages links -->
 
-    {% assign default_paths = site.pages | map: "path" %} {% assign page_paths =
+    <!-- {% assign default_paths = site.pages | map: "path" %} {% assign page_paths =
     site.data.theme.navigation_pages | default: default_paths %} {% comment %}
     {% for path in page_paths %} {% assign my_page = site.pages | where: "path",
     path | first %} {% if my_page.title %}
@@ -33,16 +33,20 @@
         <span itemprop="name">{{ my_page.title | escape }}</span>
       </a>
     </li>
-    {% endif %} {% endfor %} {% endcomment %}
+    {% endif %} {% endfor %} {% endcomment %} -->
 
-    <!-- {% for post in site.posts %}
-    {% if post.title %}
-        <li class="menu-item">
-          <a href="{{ post.url | relative_url }}" itemprop="url">
-            <span itemprop="name">{{ post.title | escape }}</span>
-          </a>
-        </li>
-      {% endif %}
-    {% endfor %} -->
+    <!-- <li class="menu-item">
+      <a href="{{ post.url | relative_url }}" itemprop="url">
+      <span itemprop="name">Submissions:</span>
+      </a>
+    </li> -->
+
+    {% for post in site.posts %} {% if post.title %}
+    <li class="menu-item" style="font-size: large;">
+      <a href="{{ post.url | relative_url }}" itemprop="url">
+        <span itemprop="name">{{ post.title | escape }}</span>
+      </a>
+    </li>
+    {% endif %} {% endfor %}
   </ul>
 </nav>
