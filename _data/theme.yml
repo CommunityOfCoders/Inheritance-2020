@@ -34,5 +34,6 @@ google_fonts:
 # pages that have a `title`. Add raw page paths in the order you'd like.
 
 navigation_pages:
+  - submissions/sub_main.html
   - about.md
   - cv.md

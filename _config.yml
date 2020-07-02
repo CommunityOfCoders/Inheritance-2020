@@ -23,12 +23,12 @@ github_username: communityofcoders
 logo: "/assets/images/logo.png" # path of site logo, e.g. "/assets/images/logo.png"
 search: true # true, false (default)
 search_full_content: false # true, false (default)
-search_provider: algolia # lunr (default), algolia
-algolia:
-  application_id: 89PU11F3M1 # YOUR_APPLICATION_ID
-  index_name: Inheritance-2020 # YOUR_INDEX_NAME
-  search_only_api_key: a51fae176acc70e9221434273818fd21 # YOUR_SEARCH_ONLY_API_KEY
-  powered_by: false # true (default), false
+search_provider: lunr # lunr (default), algolia
+# algolia:
+#   application_id: 89PU11F3M1 # YOUR_APPLICATION_ID
+#   index_name: Inheritance-2020 # YOUR_INDEX_NAME
+#   search_only_api_key: a51fae176acc70e9221434273818fd21 # YOUR_SEARCH_ONLY_API_KEY
+#   powered_by: false # true (default), false
 
 # Build settings
 markdown: kramdown
@@ -78,4 +78,4 @@ defaults:
       type: posts
     values:
       layout: post
-      read_time: true
+      read_time: false

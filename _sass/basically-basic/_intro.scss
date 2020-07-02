@@ -21,8 +21,8 @@
     left: 0;
     @if $intro-image-color-overlay == true {
       background-color: rgba($accent-color, 0.25);
-    };
-    content: '';
+    }
+    content: "";
   }
 
   img {
@@ -31,7 +31,6 @@
 }
 
 .intro-text {
-
   /* remove space after last child element */
   > *:last-child {
     margin-bottom: 0;
@@ -59,7 +58,6 @@
 }
 
 .intro-more {
-
   > p:first-child {
     font-size: 1.125em;
     line-height: 1.625;
