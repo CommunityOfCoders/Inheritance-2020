@@ -2,14 +2,14 @@
   {% if site.email %}
   <li>
     <a href="mailto:{{ site.email }}">
-      <span class="icon icon--email">{% include icon-email.svg %}</span>
+      <span class="icon icon--email" style="color: #52b107;">{% include icon-email.svg %}</span>
       <span class="label"
-        >{{ site.data.theme.t.email | default: 'Email' }}</span
+      style="color: #52b107;">{{ site.data.theme.t.email | default: 'Email' }}</span
       >
     </a>
   </li>
   {% endif %} {% if site.github_username %}
-  <li>
+  <li style="color: #52b107;">
     {% include icon-github.html username=site.github_username label='GitHub' %}
   </li>
   {% endif %} {% if site.twitter_username %}

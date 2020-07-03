@@ -6,7 +6,7 @@
   @include list-unstyled;
 
   a {
-    color: inherit;
+    color: #52b107;
     text-decoration: none;
   }
 }
@@ -42,6 +42,7 @@
       flex: 1;
       justify-content: space-between;
       -ms-flex-pack: justify;
+      color: #52b107;
     }
 
     li + li {
@@ -54,7 +55,7 @@
     padding: 1em;
     border-radius: $border-radius;
     background-color: $accent-color;
-    color: #fff;
+    color: #52b107;
     font-weight: bold;
     text-align: center;
     text-decoration: none;

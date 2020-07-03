@@ -11,7 +11,6 @@
   cursor: pointer;
   -webkit-transition: 0.2s;
   transition: 0.2s;
-
   .icon {
     @include fluid-type($min-vw, $max-vw, 20px, 24px);
     fill: $navicon-content-bg;
@@ -23,7 +22,6 @@
   visibility: hidden;
   padding-top: 1em;
   padding-bottom: 1em;
-
   .inner {
     padding: 0 0.5rem;
 

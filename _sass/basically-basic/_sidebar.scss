@@ -42,7 +42,7 @@
     /* line hover effect */
     a {
       position: relative;
-      color: $base-color;
+      color: #52b107;
 
       &::before {
         display: block;
@@ -53,12 +53,12 @@
         height: 1px;
         -webkit-transition: width 0.3s cubic-bezier(0, 0, 0.3, 1);
         transition: width 0.3s cubic-bezier(0, 0, 0.3, 1);
-        background-color: $base-color;
+        background-color: #52b107;
         content: "";
       }
 
       &:hover {
-        color: $accent-color;
+        color: #52b107;
       }
 
       &:hover::before {
@@ -68,10 +68,10 @@
   }
 
   > .inner {
-    width: 100%;
+    width: 85%;
     height: 100%;
     padding: 1.5em;
-    background-color: $sidebar-background-color;
+    background-color: rgba(0, 0, 0, 0.767);
     overflow-x: hidden;
     -webkit-box-shadow: inset -1em 0 5em 0 rgba(0, 0, 0, 0.125);
     box-shadow: inset -1em 0 5em 0 rgba(0, 0, 0, 0.125);
@@ -119,7 +119,7 @@
 
     a {
       display: block;
-      color: $base-color;
+      color: #52b107;
       text-decoration: none;
     }
   }

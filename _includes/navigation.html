@@ -10,7 +10,7 @@
     <li class="menu-item">
       <a href="{{ '/' | relative_url }}" itemprop="url">
         <span itemprop="name"
-          >{{ site.data.theme.t.home | default: 'Home' }}</span
+          style="font-size: 35px;">{{ site.data.theme.t.home | default: 'Home' }}</span
         >
       </a>
     </li>
@@ -18,7 +18,7 @@
     <!-- Submissions link -->
     <li class="menu-item">
       <a href="{{ '/submissions' | relative_url }}" itemprop="url">
-        <span itemprop="name">Submissions:</span>
+        <span itemprop="name" style="font-size: 35px;">Submissions:</span>
       </a>
     </li>
 
@@ -41,12 +41,14 @@
       </a>
     </li> -->
 
-    {% for post in site.posts %} {% if post.title %}
-    <li class="menu-item" style="font-size: large;">
-      <a href="{{ post.url | relative_url }}" itemprop="url">
-        <span itemprop="name">{{ post.title | escape }}</span>
-      </a>
-    </li>
-    {% endif %} {% endfor %}
+    <div style="padding-left: 10px;">
+        {% for post in site.posts %} {% if post.title %}
+          <li class="menu-item yes" style="font-size: 18px; color: #52b107; padding-left: 20px;" >
+            <a href="{{ post.url | relative_url }}" itemprop="url">
+              <span itemprop="name">{{ post.title | capitalize }}</span>
+            </a>
+          </li>
+      {% endif %} {% endfor %}
+    </div>
   </ul>
 </nav>
