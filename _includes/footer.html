@@ -2,9 +2,9 @@
   <div class="inner">
     <div class="copyright">
       {% if site.copyright %}
-        {{ site.copyright | markdownify }}
+        <p>&copy; {{ site.copyright }}</p>
       {% else %}
-        <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}.</p>
+        <p>&copy; {{ site.title }}.</p>
       {% endif %}
     </div>
   </div>

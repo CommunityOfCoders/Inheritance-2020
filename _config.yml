@@ -17,7 +17,7 @@ lang: en-US
 title: Inheritance 2020
 email: communityofcoders@gmail.com
 description: Inheritance 2020 project collection
-baseurl: "/Inheritance-2020"# the optional subpath of your site, e.g. "/blog"
+baseurl: "/Inheritance-2020" # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 github_username: communityofcoders
 logo: "/assets/images/logo.png" # path of site logo, e.g. "/assets/images/logo.png"
@@ -29,6 +29,7 @@ search_provider: lunr # lunr (default), algolia
 #   index_name: Inheritance-2020 # YOUR_INDEX_NAME
 #   search_only_api_key: a51fae176acc70e9221434273818fd21 # YOUR_SEARCH_ONLY_API_KEY
 #   powered_by: false # true (default), false
+copyright: Inheritance 2020 is an initiative by the Community of Coders. All rights reserved.
 
 # Build settings
 markdown: kramdown

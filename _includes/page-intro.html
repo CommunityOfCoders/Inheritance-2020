@@ -1,18 +1,19 @@
 <style>
   * {box-sizing: border-box}
   body {font-family: Verdana, sans-serif; margin:0}
-  .mySlides {display: none}
-  img{
-    height: 500px;
-    width: 300px;
-  }
+
   /* Slideshow container */
   .slideshow-container {
     max-width: 1000px;
     position: relative;
     margin: auto;
   }
-  
+
+  .mySlides {display: none}
+  .slide-image{
+    width: 100%;
+  }  
+
   /* Next & previous buttons */
   .prev, .next {
     cursor: pointer;
@@ -108,15 +109,15 @@
   <div class="slideshow-container">
 
     <div class="mySlides fade">
-      <img src="https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" style="width:100%">
+      <img class="slide-image" src="https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500">
     </div>
     
     <div class="mySlides fade">
-      <img src="https://iso.500px.com/wp-content/uploads/2016/04/stock-photo-150595123.jpg" style="width:100%">
+      <img class="slide-image" src="https://iso.500px.com/wp-content/uploads/2016/04/stock-photo-150595123.jpg">
     </div>
     
     <div class="mySlides fade">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzvGSX3gJcyWlYooizsDmIfIJqvPjsn5FSRw&usqp=CAU" style="width:100%">
+      <img class="slide-image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzvGSX3gJcyWlYooizsDmIfIJqvPjsn5FSRw&usqp=CAU">
     </div>
     
     <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
