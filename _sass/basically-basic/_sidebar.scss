@@ -42,7 +42,7 @@
     /* line hover effect */
     a {
       position: relative;
-      color: #52b107;
+      color: $sidebar-link-color;
 
       &::before {
         display: block;
@@ -53,12 +53,12 @@
         height: 1px;
         -webkit-transition: width 0.3s cubic-bezier(0, 0, 0.3, 1);
         transition: width 0.3s cubic-bezier(0, 0, 0.3, 1);
-        background-color: #52b107;
+        background-color: $sidebar-hover-color;
         content: "";
       }
 
       &:hover {
-        color: #52b107;
+        color: $sidebar-hover-color;
       }
 
       &:hover::before {
@@ -71,7 +71,7 @@
     width: 85%;
     height: 100%;
     padding: 1.5em;
-    background-color: rgba(0, 0, 0, 0.767);
+    background-color: $sidebar-background-color;
     overflow-x: hidden;
     -webkit-box-shadow: inset -1em 0 5em 0 rgba(0, 0, 0, 0.125);
     box-shadow: inset -1em 0 5em 0 rgba(0, 0, 0, 0.125);
@@ -119,7 +119,7 @@
 
     a {
       display: block;
-      color: #52b107;
+      color: $sidebar-link-color;
       text-decoration: none;
     }
   }

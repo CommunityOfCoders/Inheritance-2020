@@ -1,4 +1,8 @@
 <a href="https://github.com/{{ include.username }}">
-  <span class="icon icon--github">{% include icon-github.svg %}</span>
+  {% if site.data.theme.skin == "sea" %}
+    <span class="icon">{% include icon-github.svg %}</span>
+  {% else %}
+    <span class="icon icon--github">{% include icon-github.svg %}</span>
+  {% endif %}
   <span class="label">{{ include.label | default: include.username }}</span>
 </a>

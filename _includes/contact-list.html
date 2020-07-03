@@ -2,14 +2,13 @@
   {% if site.email %}
   <li>
     <a href="mailto:{{ site.email }}">
-      <span class="icon icon--email" style="color: #52b107;">{% include icon-email.svg %}</span>
-      <span class="label"
-      style="color: #52b107;">{{ site.data.theme.t.email | default: 'Email' }}</span
+      <span class="icon">{% include icon-email-2.svg %}</span>
+      <span class="label">{{ site.data.theme.t.email | default: 'Email' }}</span
       >
     </a>
   </li>
   {% endif %} {% if site.github_username %}
-  <li style="color: #52b107;">
+  <li>
     {% include icon-github.html username=site.github_username label='GitHub' %}
   </li>
   {% endif %} {% if site.twitter_username %}
@@ -18,7 +17,7 @@
     %}
   </li>
   {% endif %}
-
+  
   <!-- <li>
     {% if site.plugins contains 'jekyll-feed' or site.gems contains 'jekyll-feed' %}
       <a href="{{ site.feed.path | default: 'feed.xml' | relative_url }}" title="Atom Feed">
@@ -28,3 +27,4 @@
     {% endif %}
   </li> -->
 </ul>
+

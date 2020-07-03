@@ -24,6 +24,7 @@
       <li><span class="icon">{% include icon-calendar.svg %}</span><time class="entry-time" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></li>
     {% endif %} {% endcomment %}
     {% if post.team_name %}
+      {% comment %} <span class="icon">{% include icon-team-2.svg %}</span> {% endcomment %}
       <li>{{ post.team_name }}</li>
     {% endif %}
     {% if post.read_time %}
