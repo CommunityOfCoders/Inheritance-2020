@@ -4,7 +4,7 @@ layout: page
 
 {{ content }}
 
-<ul class="taxonomy-index">
+{% comment %} <ul class="taxonomy-index">
   {% assign postsInYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
   {% for year in postsInYear %}
     <li>
@@ -13,9 +13,9 @@ layout: page
       </a>
     </li>
   {% endfor %}
-</ul>
+</ul> {% endcomment %}
 
-{% assign postsByYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+{% comment %} {% assign postsByYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
 {% for year in postsByYear %}
   <section id="{{ year.name }}" class="taxonomy-section">
     <h2 class="taxonomy-title">{{ year.name }}</h2>
@@ -24,6 +24,14 @@ layout: page
         {% include entry.html %}
       {% endfor %}
     </div>
-    <a href="#page-title" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
   </section>
-{% endfor %}
+{% endfor %} {% endcomment %}
+
+<h1 class="taxonomy-title" style="margin-bottom: 30px">Projects</h1>
+
+<div class="entries-{{ page.entries_layout | default: 'list' }}">
+  {% for post in site.posts %}
+    {% include entry.html %}
+  {% endfor %}
+</div>
+<a href="#page-title" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>

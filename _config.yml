@@ -79,4 +79,4 @@ defaults:
       type: posts
     values:
       layout: post
-      read_time: false
+      read_time: true
