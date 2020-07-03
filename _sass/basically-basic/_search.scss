@@ -60,8 +60,9 @@
     -webkit-box-shadow: none;
     box-shadow: none;
     background-color: $input-background-color;
-    height: 30px;
+    height: 55px;
     width: 50%;
+    border-radius: 10px;
     // @include fluid-type($min-vw, $max-vw, 24px, 32px);
   }
 
