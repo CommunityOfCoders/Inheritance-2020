@@ -1,3 +1,11 @@
+---
+title: Linguist
+permalink: "/submissions/:title"
+team_name: Linguist Underwoods
+description: "An app that translates to and from the six Latin based languages i.e. English, Spanish, French, Italian, Portuguese and Romanian."
+# read-time: true
+---
+
 # Linguist
 
 ### Team - Underwoods
