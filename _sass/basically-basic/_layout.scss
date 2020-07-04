@@ -68,7 +68,7 @@ main {
 .layout--page {
   .entry-content {
     @include breakpoint($large) {
-      width: span(14 of 16);
+      width: span(16 of 16);
     }
   }
 }
@@ -130,7 +130,7 @@ main {
     .entry-content {
       @include breakpoint($medium) {
         float: right;
-        width: span(11 of 16);
+        width: span(14 of 16);
       }
     }
   }
