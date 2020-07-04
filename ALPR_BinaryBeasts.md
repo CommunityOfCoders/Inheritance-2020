@@ -97,5 +97,5 @@ python appapi.py
 
 ## Screenshots
 
-![App Screenshort](App_screenshot.jpg "Here is a screenshot")
+![App Screenshort](https://drive.google.com/file/d/10iVoYUm2HyUNCiYRowZ5ut3iuqsfvLIo/view?usp=sharing "Here is a screenshot")
 
