@@ -74,3 +74,86 @@ function toggleClassSearch() {
     document.querySelector('.search-content input').focus();
   }, 400);
 }
+
+$(function(){
+
+  window.sr = ScrollReveal();
+
+  if ($(window).width() < 768) {
+
+  	if ($('.timeline-content').hasClass('js--fadeInLeft')) {
+  		$('.timeline-content').removeClass('js--fadeInLeft').addClass('js--fadeInRight');
+  	}
+
+  	sr.reveal('.js--fadeInRight', {
+	    origin: 'right',
+	    distance: '300px',
+	    easing: 'ease-in-out',
+	    duration: 800,
+	  });
+
+  } else {
+  	
+  	sr.reveal('.js--fadeInLeft', {
+	    origin: 'left',
+	    distance: '300px',
+		  easing: 'ease-in-out',
+	    duration: 800,
+	  });
+
+	  sr.reveal('.js--fadeInRight', {
+	    origin: 'right',
+	    distance: '300px',
+	    easing: 'ease-in-out',
+	    duration: 800,
+	  });
+
+  }
+  
+  sr.reveal('.js--fadeInLeft', {
+	    origin: 'left',
+	    distance: '300px',
+		  easing: 'ease-in-out',
+	    duration: 800,
+	  });
+
+	  sr.reveal('.js--fadeInRight', {
+	    origin: 'right',
+	    distance: '300px',
+	    easing: 'ease-in-out',
+	    duration: 800,
+	  });
+
+
+});
+
+// Canvas stuff starts here
+var ctx = document.getElementById("pieChart").getContext("2d");
+ctx.scale(0.5, 0.5);
+var myChart = new Chart(ctx, {
+  type: 'pie',
+  data: {
+      labels: ['App Development', 'Web Development', 'ML & Web Development', 'ML & App Development', 'Game Development', 'Blockchain'],
+      datasets: [{
+          label: 'Domains of teams',
+          data: [16, 11, 7, 7, 1, 1],
+          backgroundColor: [
+              'rgba(255, 99, 132, 0.2)',
+              'rgba(54, 162, 235, 0.2)',
+              'rgba(255, 206, 86, 0.2)',
+              'rgba(75, 192, 192, 0.2)',
+              'rgba(153, 102, 255, 0.2)',
+              'rgba(255, 159, 64, 0.2)'
+          ],
+          borderColor: [
+              'rgba(255, 99, 132, 1)',
+              'rgba(54, 162, 235, 1)',
+              'rgba(255, 206, 86, 1)',
+              'rgba(75, 192, 192, 1)',
+              'rgba(153, 102, 255, 1)',
+              'rgba(255, 159, 64, 1)'
+          ],
+          borderWidth: 1
+      }]
+  }
+});

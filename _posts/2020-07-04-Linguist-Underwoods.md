@@ -3,7 +3,7 @@ title: Linguist
 permalink: "/submissions/:title"
 team_name: Linguist Underwoods
 description: "An app that translates to and from the six Latin based languages i.e. English, Spanish, French, Italian, Portuguese and Romanian."
-# read-time: true
+read-time: true
 ---
 
 # Linguist
@@ -35,7 +35,7 @@ The important concepts used in this app are:
 
 Package used: speech_to_text
     
-    
+    {% highlight dart %}
     void initializeSpeechState() async { 
         bool hasSpeech = await speech.initialize( 
         onError: errorListener, onStatus: statusListener); 
@@ -44,12 +44,14 @@ Package used: speech_to_text
         _hasSpeech = hasSpeech; 
         }); 
     }
+    {% endhighlight %}
     
  
  * Image to Text  
     
  Package used: image_picker, image_cropper
     
+     {% highlight dart %}
      Future<void> textDetect(var img) async { 
       FirebaseVisionImage ourImage = FirebaseVisionImage.fromFile(img); 
       TextRecognizer ourtext = FirebaseVision.instance.textRecognizer(); 
@@ -67,11 +69,12 @@ Package used: speech_to_text
       await translate(text); 
      } 
     }
+    {% endhighlight %}
   
     
 To crop the image
 
-    
+    {% highlight dart %}
     Future<void> cropImage(var img) async { 
       var cropped = await ImageCropper.cropImage( 
       sourcePath: img.path, 
@@ -93,7 +96,7 @@ To crop the image
           CropAspectRatioPreset.ratio7x5, 
           CropAspectRatioPreset.ratio16x9 
         ], 
-       
+       {% endhighlight %}
    
  * Translation
    
@@ -103,7 +106,7 @@ _This package takes time to download the language files when used for the first 
 
 Function with both languages as parameters to translate text
 
-    
+    {% highlight dart %}    
     Future<void> translate(String text) async { 
      inputText = text; 
      var result = await FirebaseLanguage.instance 
@@ -113,6 +116,7 @@ Function with both languages as parameters to translate text
      MainScreen.translatedText = result; 
      });
     }
+    {% endhighlight %}
        
     
  * Text to audio 
@@ -121,7 +125,7 @@ Function with both languages as parameters to translate text
  
  Function for pronunciation of translated text
  
-
+    {% highlight dart %}
     Future _speak({String text, String lang}) async { 
      await flutterTts.setVolume(volume); 
      await flutterTts.setSpeechRate(rate); 
@@ -135,7 +139,7 @@ Function with both languages as parameters to translate text
       } 
      } 
     } 
-    
+    {% endhighlight %}
 
 * GitHub repository link: [Link to repository](https://github.com/MahekNakhua/Linguist.git)
 * Drive link: [Drive link](https://drive.google.com/drive/folders/10BDol13jzBzpk8mgG5MAUVj6DDYIlZxW?usp=sharing)
