@@ -3,7 +3,6 @@
    ========================================================================== */
 
 @media print {
-
   [hidden] {
     display: none;
   }
@@ -178,14 +177,15 @@
 
   a[href^='http://']::after,
   a[href^='https://']::after,
-  a[href^='ftp://']::after {
+  a[href^='ftp://']::after
+  {
     font-size: 80%;
-    content: ' (' attr(href) ')';
+    content: " (" attr(href) ")";
   }
 
   abbr[title]::after,
   acronym[title]::after {
-    content: ' (' attr(title) ')';
+    content: " (" attr(title) ")";
   }
 
   .wrapper {
@@ -222,12 +222,12 @@
   }
 
   a.no-reformat::after {
-    content: '';
+    content: "";
   }
 
   abbr[title].no-reformat::after,
   acronym[title].no-reformat::after {
-    content: '';
+    content: "";
   }
 
   .btn {
@@ -235,7 +235,7 @@
     color: #000;
   }
 
-/*
+  /*
    Hide the following elements on print
    ========================================================================== */
 
