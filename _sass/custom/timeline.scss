@@ -8,6 +8,7 @@ $accent: #ff4081;
 
 section {
   padding: 100px 0;
+  width: 100vw;
 }
 
 html,
@@ -17,6 +18,7 @@ body {
 
 .timeline {
   position: relative;
+  margin: 0 auto;
 
   &::before {
     content: "";

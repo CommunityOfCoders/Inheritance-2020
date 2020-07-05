@@ -140,10 +140,6 @@ ctx.scale(0.5, 0.5);
 var myChart = new Chart(ctx, {
   type: "doughnut",
   options: {
-    legend: {
-      display: true,
-      position: "right",
-    },
     title: {
       display: true,
       position: "top",
