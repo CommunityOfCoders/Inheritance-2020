@@ -4,6 +4,11 @@ image: "https://scontent.fbom5-1.fna.fbcdn.net/v/t1.0-9/89233818_228309499199915
 ---
 
 <style>
+  #nice{
+    position: relative;
+    left: 25%;
+    margin-left: -50px;    
+  }
   .card {
     /* Add shadows to create the "card" effect */
     color: green;
@@ -31,119 +36,120 @@ image: "https://scontent.fbom5-1.fna.fbcdn.net/v/t1.0-9/89233818_228309499199915
 
   p {
     padding: 2px 16px;
+    padding-bottom: 30px;
   }
 </style>
 
-<h3>
-  Inheritance is a summer mentorship program for first year students at VJTI to
-  help them start their development journies.
-</h3>
-<section class="representation">
-  <h2>Looking at Inheritance-2020 through numbers</h2>
-  <canvas
-    id="pieChart"
-    style="background-color: #263849; width: 100px; height: 100px;"
-  ></canvas>
-</section>
-
-<section class="timeline">
-  <h2>Timeline</h2>
-  <div class="container">
-    <div class="timeline-item">
-      <div class="timeline-img"></div>
-
-      <div class="timeline-content timeline-card js--fadeInLeft">
-        <div class="timeline-img-header">
-          <h2>The Beginning</h2>
+<div id="nice" style="margin: 0 auto;">
+  <h3 style="text-align: center;">
+    Inheritance is a summer mentorship program for first year students at VJTI to
+    help them start their development journies.
+  </h3>
+  <section class="representation">
+    <h2 style="text-align: center;">Looking at Inheritance-2020 through numbers</h2>
+    <canvas id="pieChart" style="background-color: #263849; width: 700px; height: 700px;"></canvas>
+  </section>
+  
+  <h2 style="padding-left: 10px;">Timeline</h2>
+  <section class="timeline" style="padding-top: 30px;">
+    <div class="container">
+      <div class="timeline-item">
+        <div class="timeline-img"></div>
+        <div class="timeline-content timeline-card js--fadeInLeft">
+          <div class="timeline-img-header">
+            <h2>The Beginning</h2>
+          </div>
+          <div class="date">6 APRIL 2020</div>
+          <p>Forms for Inheritance 2020 released</p>
         </div>
-        <div class="date">6 APRIL 2020</div>
-        <p>Forms for Inheritance 2020 released</p>
+      </div>
+  
+      <div class="timeline-item">
+        <div class="timeline-img"></div>
+        <div class="timeline-content timeline-card js--fadeInRight">
+          <div class="timeline-img-header">
+            <h2>The Interviews</h2>
+          </div>
+          <div class="date">2 MAY 2020</div>
+          <p>
+            Our members held an intensive interview session with each team to
+            ensure they stay on track.
+          </p>
+        </div>
+      </div>
+  
+      <div class="timeline-item">
+        <div class="timeline-img"></div>
+        <div class="timeline-content timeline-card js--fadeInLeft">
+          <div class="timeline-img-header">
+            <h2>The Journey Commences</h2>
+          </div>
+          <div class="date">6 MAY 2020</div>
+          <p>
+            Inheritance kicked off with each team assigned to a mentors who would
+            guide them throughout
+          </p>
+        </div>
+      </div>
+  
+      <div class="timeline-item">
+        <div class="timeline-img"></div>
+        <div class="timeline-content timeline-card js--fadeInRight">
+          <div class="timeline-img-header">
+            <h2>The Period of Hard Work</h2>
+          </div>
+          <div class="date">6 MAY 2020 - 5 JULY 2020</div>
+          <p>
+            Over a period of 2 months, students worked hard to finish their
+            websites, apps or data models.
+          </p>
+        </div>
+      </div>
+  
+      <div class="timeline-item">
+        <div class="timeline-img"></div>
+        <div class="timeline-content timeline-card js--fadeInLeft">
+          <div class="timeline-img-header">
+            <h2>The Submissions</h2>
+          </div>
+          <div class="date">6 JULY 2020</div>
+          <p>
+            Students submit their works and documentation to CoC and start getting
+            ready for presentations.
+          </p>
+        </div>
+      </div>
+  
+      <div class="timeline-item">
+        <div class="timeline-img"></div>
+        <div class="timeline-content timeline-card js--fadeInRight">
+          <div class="timeline-img-header">
+            <h2>The Presentations</h2>
+          </div>
+          <div class="date">11-12 JULY 2020</div>
+          <p>
+            In future
+          </p>
+        </div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-img"></div>
+        <div class="timeline-content timeline-card js--fadeInLeft">
+          <div class="timeline-img-header">
+            <h2>The Conclusion</h2>
+          </div>
+          <div class="date">12 JULY 2020</div>
+  
+          <p>
+            Inheritance Over
+          </p>
+        </div>
       </div>
     </div>
-
-    <div class="timeline-item">
-      <div class="timeline-img"></div>
-      <div class="timeline-content timeline-card js--fadeInRight">
-        <div class="timeline-img-header">
-          <h2>The Interviews</h2>
-        </div>
-        <div class="date">2 MAY 2020</div>
-        <p>
-          Our members held an intensive interview session with each team to
-          ensure they stay on track.
-        </p>
-      </div>
-    </div>
-
-    <div class="timeline-item">
-      <div class="timeline-img"></div>
-      <div class="timeline-content timeline-card js--fadeInLeft">
-        <div class="timeline-img-header">
-          <h2>The Journey Commences</h2>
-        </div>
-        <div class="date">6 MAY 2020</div>
-        <p>
-          Inheritance kicked off with each team assigned to a mentors who would
-          guide them throughout
-        </p>
-      </div>
-    </div>
-
-    <div class="timeline-item">
-      <div class="timeline-img"></div>
-      <div class="timeline-content timeline-card js--fadeInRight">
-        <div class="timeline-img-header">
-          <h2>The Period of Hard Work</h2>
-        </div>
-        <div class="date">6 MAY 2020 - 5 JULY 2020</div>
-        <p>
-          Over a period of 2 months, students worked hard to finish their
-          websites, apps or data models.
-        </p>
-      </div>
-    </div>
-
-    <div class="timeline-item">
-      <div class="timeline-img"></div>
-      <div class="timeline-content timeline-card js--fadeInLeft">
-        <div class="timeline-img-header">
-          <h2>The Submissions</h2>
-        </div>
-        <div class="date">6 JULY 2020</div>
-        <p>
-          Students submit their works and documentation to CoC and start getting
-          ready for presentations.
-        </p>
-      </div>
-    </div>
-
-    <div class="timeline-item">
-      <div class="timeline-img"></div>
-      <div class="timeline-content timeline-card js--fadeInRight">
-        <div class="timeline-img-header">
-          <h2>The Presentations</h2>
-        </div>
-        <div class="date">11-12 JULY 2020</div>
-        <p>
-          In future
-        </p>
-      </div>
-    </div>
-    <div class="timeline-item">
-      <div class="timeline-img"></div>
-      <div class="timeline-content timeline-card js--fadeInLeft">
-        <div class="timeline-img-header">
-          <h2>The Conclusion</h2>
-        </div>
-        <div class="date">12 JULY 2020</div>
-
-        <p>
-          Inheritance Over
-        </p>
-      </div>
-    </div>
-  </div>
-</section>
+  </section>
+  <br><br>
+  <p style="font-family: monospace; font-size: 14px; text-align: center;">©️ {{ site.copyright }}</p>
+</div>
 <!-- <div class="card">
   <div class="container">
     <a href="{{ '/submissions' | relative_url }}">
