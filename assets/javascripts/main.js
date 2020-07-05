@@ -141,8 +141,8 @@ var myChart = new Chart(ctx, {
   type: "doughnut",
   options: {
     legend: {
-      display: true,
-      position: "right",
+      display: false,
+      position: "bottom",
     },
     title: {
       display: true,
