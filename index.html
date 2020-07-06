@@ -6,8 +6,7 @@ image: "https://scontent.fbom5-1.fna.fbcdn.net/v/t1.0-9/89233818_228309499199915
 <style>
   #nice{
     position: relative;
-    left: 50%;
-    margin-left: -50px;    
+    margin: auto;
   }
   .card {
     /* Add shadows to create the "card" effect */
@@ -38,16 +37,29 @@ image: "https://scontent.fbom5-1.fna.fbcdn.net/v/t1.0-9/89233818_228309499199915
     padding: 2px 16px;
     padding-bottom: 30px;
   }
+
+
+  @media only screen and (min-width: 1000px){
+    .chart-div{
+      width: 70%;
+      margin: 0 auto;
+    }
+  }
+
 </style>
 
-<div id="nice" style="margin: 0 auto;">
+<div id="nice">
   <h3 style="text-align: center;">
     Inheritance is a summer mentorship program for first year students at VJTI to
     help them start their development journies.
   </h3>
+  
   <section class="representation">
     <h2 style="text-align: center;">Looking at Inheritance-2020 through numbers</h2>
-    <canvas id="pieChart" style="background-color: #263849; width: 700px; height: 700px;"></canvas>
+    <div class="chart-div"> 
+      <canvas id="pieChart" style="background-color: #263849; width: 700px; height: 700px;"></canvas>
+    </div>
+   
   </section>
   
   <h2 style="padding-left: 10px;">Timeline</h2>

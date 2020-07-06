@@ -150,6 +150,13 @@ var myChart = new Chart(ctx, {
     chartArea: {
       backgroundColor: "rgba(0, 0, 0, 0.1)",
     },
+    legend: {
+      position: "right",
+      align: "start",
+      labels: {
+        fontColor: "#fff",
+      }
+    },
   },
   data: {
     labels: [

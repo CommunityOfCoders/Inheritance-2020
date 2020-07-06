@@ -1,8 +1,8 @@
 ---
-title: Sample Readme
+title: "Sample Readme B"
 permalink: "/submissions/:title"
-team_name: Team B
-description: "Description B"
+team_name: Team A
+description: "Description A"
 # read-time: true
 ---
 

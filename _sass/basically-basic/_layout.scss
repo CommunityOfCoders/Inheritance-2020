@@ -58,6 +58,11 @@ main {
 }
 
 .inner {
+  max-width: 80%;
+  margin: 0 auto;
+}
+
+.sidebar-inner {
   max-width: $large;
 }
 
