@@ -70,7 +70,7 @@ After downloading you get a box with downloaded pdf at the bottom of your page i
 
 * GitHub repo link : https://github.com/kart1802/NXT-Debuggers.git
 
-* Drive link : https://drive.google.com/file/d/1Ks_NeKAY46bmQCvUwNL7Vv6-3IAAQCwq/view?usp=sharing
+* Drive link : https://drive.google.com/drive/folders/1j2LMz1ENhJ0szBvky2KFMjip2_d6TCgb?usp=sharing
 
 ## Technology Stack
 
