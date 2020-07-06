@@ -65,7 +65,12 @@ In the above image as you can see the "***Sign Out and/or Go to Home Page***" wi
 By Clicking on "**Download**" icon you would get a dialog box where you can save pdf on your device(*This is for the user who use Chrome browser*) 
 
 ![Download2](Download2.png)
+
 After downloading you get a box with downloaded pdf at the bottom of your page in Chrome
+
+* GitHub repo link : https://github.com/kart1802/NXT-Debuggers.git
+
+* Drive link : https://drive.google.com/file/d/1Ks_NeKAY46bmQCvUwNL7Vv6-3IAAQCwq/view?usp=sharing
 
 ## Technology Stack
 
@@ -87,10 +92,7 @@ After downloading you get a box with downloaded pdf at the bottom of your page i
 
     In the command prompt enter the follwing code
     *  ` pip install Flask `
-    *  ` pip install jinja2 `
-    *  ` pip install pdfkit `
-    *  ` pip install pdflatex `
-    *  ` pip install psycopg2 `
+    *  ` pip install -r requirements.txt `
   
 
 
@@ -141,9 +143,9 @@ After downloading you get a box with downloaded pdf at the bottom of your page i
 
 
 ## Applications
->### Our Resume Maker will be useful in providing simple and professional resumes to our users and to enable those users who have no idea about the format of a resume to also make a resume for themselves.
+> Our Resume Maker will be useful in providing simple and professional resumes to our users and to enable those users who have no idea about the format of a resume to also make a resume for themselves.
 
 
 
 ## Future Scope
->### Our project is primarily made for undergraduate or graduate students to help them make a professional resume. As of now, our Resume Maker app has 4 resume templates for the users. We would like to add more in future. Further, we are working on making the whole app more responsive,easy to use and giving the logged in users the opportunity to edit or download their previously made resumes.One of our future plans will be to have a feature which will ask the registered users to provide the companies they would like to send a particular resume to, and that resume would be sent to the respective company's mail id by our app.  
+> Our project is primarily made for undergraduate or graduate students to help them make a professional resume. As of now, our Resume Maker app has 4 resume templates for the users. We would like to add more in future. Further, we are working on making the whole app more responsive,easy to use and giving the logged in users the opportunity to edit or download their previously made resumes.One of our future plans will be to have a feature which will ask the registered users to provide the companies they would like to send a particular resume to, and that resume would be sent to the respective company's mail id by our app.  
