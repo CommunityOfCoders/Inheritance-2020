@@ -94,22 +94,22 @@ so, the model will first check if the entered question is greeting type or not. 
 
 ## Screenshots
 
-![image1](./image/1.png)
+![image1](https://drive.google.com/uc?export=view&id=12qPwZT_ceavDAiznWk1w6v83CBMYqULY)
 
 
-![image2](./image/7.png)
+![image2](https://drive.google.com/uc?export=view&id=1iQ_Q-xKiklaa6b2bcroJ3dpOKln6QKqz)
 
 
-![image3](./image/3.png)
+![image3](https://drive.google.com/uc?export=view&id=1RjCcwxe_90M1s68eAecG6CIqhXRZB_3P)
 
 
-![image4](./image/4.png)
+![image4](https://drive.google.com/uc?export=view&id=1NbLU7utpC0hpiGBsnv49HC_Mu2X1ZAD0)
 
 
-![image5](./image/5.png)
+![image5](https://drive.google.com/uc?export=view&id=17FxFzzrmLpoBZ0uS_kzJcv09ofEzo1cc)
 
 
-![image6](./image/6.png)
+![image6](https://drive.google.com/uc?export=view&id=1AnzzH-tpjVJ-RjK--H_-_xsTXwmoDkdC)
 
 
 for recording of chatbot [clickhere](https://drive.google.com/file/d/1TJXv5YZ3RqRLNuUdWdeF17kH29IWNOcV/view?usp=sharing)
