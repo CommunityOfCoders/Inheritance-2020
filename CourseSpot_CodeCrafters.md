@@ -26,7 +26,7 @@ There are so many online educational platforms offering courses on various topic
 
 ## Links
 * GitHub repo link: [CodeCrafters-CourseSuggestingWebApp](https://github.com/dhairyashah1/CodeCrafters-CourseSuggestingWebApp)
-* Drive link: [DEMO VIDEO](https://drive.google.com/file/d/1ZHcTog-5BTn41gTJkB6yAp1o6ARrfOn-/view?usp=sharing) and [SCREENSHOTS](https://drive.google.com/drive/u/0/folders/11ZygWwlG1CyXw21BoLEJtoPIwAiDEAda)
+* Drive link: [DEMO VIDEO](https://drive.google.com/file/d/1ZHcTog-5BTn41gTJkB6yAp1o6ARrfOn-/view?usp=sharing) and [SCREENSHOTS](https://drive.google.com/drive/folders/1EVDGG7TJdLYeWVfu_MmEzeDiW7QFqz2u)
 * Website link: [COURSESPOT](https://coursespot.herokuapp.com)
 
 
@@ -129,7 +129,10 @@ On the terminal enter
 
 ## Screenshots
 >Here are some screenshots of your web app.
-![**CourseSpot_4**](https://github.com/dhairyashah1/CodeCrafters-CourseSuggestingWebApp/tree/master/coursespot/screenshots/CourseSpot_4.PNG)
-![**CourseSpot_5**](https://github.com/dhairyashah1/CodeCrafters-CourseSuggestingWebApp/tree/master/coursespot/screenshots/CourseSpot_5.PNG)
-![**CourseSpot_6**](https://github.com/dhairyashah1/CodeCrafters-CourseSuggestingWebApp/tree/master/coursespot/screenshots/CourseSpot_6.PNG)
-![**CourseSpot_7**](https://github.com/dhairyashah1/CodeCrafters-CourseSuggestingWebApp/tree/master/coursespot/screenshots/CourseSpot_7.PNG)
+![**CourseSpot_2**](https://github.com/dhairyashah1/CodeCrafters-CourseSuggestingWebApp/blob/master/coursespot/screenshots/CourseSpot_2.PNG)
+![**CourseSpot_3**](https://github.com/dhairyashah1/CodeCrafters-CourseSuggestingWebApp/blob/master/coursespot/screenshots/CourseSpot_3.PNG)
+![**CourseSpot_4**](https://github.com/dhairyashah1/CodeCrafters-CourseSuggestingWebApp/blob/master/coursespot/screenshots/CourseSpot_4.PNG)
+![**CourseSpot_5**](https://github.com/dhairyashah1/CodeCrafters-CourseSuggestingWebApp/blob/master/coursespot/screenshots/CourseSpot_5.PNG)
+![**CourseSpot_6**](https://github.com/dhairyashah1/CodeCrafters-CourseSuggestingWebApp/blob/master/coursespot/screenshots/CourseSpot_6.PNG)
+![**CourseSpot_7**](https://github.com/dhairyashah1/CodeCrafters-CourseSuggestingWebApp/blob/master/coursespot/screenshots/CourseSpot_7.PNG)
+![**CourseSpot_8**](https://github.com/dhairyashah1/CodeCrafters-CourseSuggestingWebApp/blob/master/coursespot/screenshots/CourseSpot_8.PNG)
