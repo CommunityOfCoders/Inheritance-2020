@@ -19,7 +19,7 @@
 * The app uses machine learning(CNN) to identify the car from its image by splitting the image in parts and using those parts get results.CNN image classifications takes an input image, processes it and classifies it under certain categories.
 
 
-![Screenshot alt text](https://drive.google.com/file/d/1T7jDaYHUFySPOSkNMVwYYPrqqKqunUyw/view?usp=sharing "This is an example of a basic CNN network.")
+![Screenshot alt text](https://github.com/riyasamel/Hackerman-101/blob/master/uploads/CNN.png "This is an example of a basic CNN network.")
 
 
 * First to train the ML program to identify images, we use a dataset with preferably a large number of images. From these images we first identify the part that contains the car in it.
@@ -123,8 +123,8 @@ Ensure that you have all the packages required.
 ## Screenshots
 
 
-![Screenshot alt text](https://drive.google.com/file/d/1nbr9bOzpv8h-wkYpn017UvkIdprM0oUe/view?usp=sharing "This is the Home Page.")
+![Screenshot alt text](https://github.com/riyasamel/Hackerman-101/blob/master/uploads/Home.png "This is the Home Page.")
 
 
-![Screenshot alt text](https://drive.google.com/file/d/13PNch1rklGB7iyjGva1jLKqO4GN3KWaW/view?usp=sharing "This is the Predict Page.")
+![Screenshot alt text](https://github.com/riyasamel/Hackerman-101/blob/master/uploads/Predict.png "This is the Predict Page.")
 
