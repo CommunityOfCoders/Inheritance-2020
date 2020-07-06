@@ -30,7 +30,8 @@ layout: page
 <h1 class="taxonomy-title" style="margin-bottom: 30px">Projects</h1>
 
 <div class="entries-{{ page.entries_layout | default: 'list' }}">
-  {% for post in site.posts %}
+  {% assign posts = site.posts | sort: "title" %}
+  {% for post in posts %}
     {% include entry.html %}
   {% endfor %}
 </div>
