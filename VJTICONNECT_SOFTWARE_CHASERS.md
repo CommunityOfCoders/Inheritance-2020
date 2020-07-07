@@ -3,14 +3,14 @@
 ### Team name: SOFTWARE CHASERS
 
 ## Team members
-* Member-1:SAMINA ATTARI - sameenaattari7860@gmail.com
-* Member-2:VRIDDHI GUPTA - vriddhigupta898@gmail.com
-* Member-3 KRISHNA ASHER- krishnaashar20@gmail.com
-* Member-4 SHREYANSH SHARMA- shreyansh238hwr@gmail.com
+* SAMINA ATTARI - sameenaattari7860@gmail.com
+* VRIDDHI GUPTA - vriddhigupta898@gmail.com
+* KRISHNA ASHER- krishnaashar20@gmail.com
+* SHREYANSH SHARMA- shreyansh238hwr@gmail.com
 
 ## Mentors
-* Mentor-1 ATHARVA THORE
-* Mentor-2 SEJAL AGGRAWAL 
+* ATHARVA THORVE
+* SEJAL AGGRAWAL 
 
 ## Project Description
 * Outline of the Project: This projects concentrates on the latest updates about the academic and extracurricular activities of VJTI.It also helps you caculate your CGPA and  helps you to connect with your teachers through a virtual classroom.
@@ -42,7 +42,7 @@ Tools and technologies that you learnt and used in the project.
 
 ## Project Setup
 
-1) JAVA JDK DOWNLOAD :-
+1)JAVA JDK DOWNLOAD :-
 For coding in java initially setup the jdk environment . For installing jdk you can visit [JDK SETUP](https://www.oracle.com/java/technologies/javase-downloads.html) .
 
 2)ANDROID STUDIO:-
