@@ -1,5 +1,5 @@
 ---
-title: info_chatbot
+title: Info_chatbot
 permalink: "/submissions/:title"
 team_name: Finders
 description: "A chatbot that answers your questions."

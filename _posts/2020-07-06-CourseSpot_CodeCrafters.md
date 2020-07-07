@@ -136,10 +136,15 @@ On the terminal enter
 
 ## Screenshots
 >Here are some screenshots of your web app.
-![**CourseSpot_2**](https://github.com/dhairyashah1/CodeCrafters-CourseSuggestingWebApp/blob/master/coursespot/screenshots/CourseSpot_2.PNG)
-![**CourseSpot_3**](https://github.com/dhairyashah1/CodeCrafters-CourseSuggestingWebApp/blob/master/coursespot/screenshots/CourseSpot_3.PNG)
-![**CourseSpot_4**](https://github.com/dhairyashah1/CodeCrafters-CourseSuggestingWebApp/blob/master/coursespot/screenshots/CourseSpot_4.PNG)
-![**CourseSpot_5**](https://github.com/dhairyashah1/CodeCrafters-CourseSuggestingWebApp/blob/master/coursespot/screenshots/CourseSpot_5.PNG)
-![**CourseSpot_6**](https://github.com/dhairyashah1/CodeCrafters-CourseSuggestingWebApp/blob/master/coursespot/screenshots/CourseSpot_6.PNG)
-![**CourseSpot_7**](https://github.com/dhairyashah1/CodeCrafters-CourseSuggestingWebApp/blob/master/coursespot/screenshots/CourseSpot_7.PNG)
-![**CourseSpot_8**](https://github.com/dhairyashah1/CodeCrafters-CourseSuggestingWebApp/blob/master/coursespot/screenshots/CourseSpot_8.PNG)
+
+![**CourseSpot_2**](https://raw.githubusercontent.com/dhairyashah1/CodeCrafters-CourseSuggestingWebApp/master/coursespot/screenshots/CourseSpot_2.PNG)
+
+![**CourseSpot_4**](https://raw.githubusercontent.com/dhairyashah1/CodeCrafters-CourseSuggestingWebApp/master/coursespot/screenshots/CourseSpot_4.PNG)
+
+![**CourseSpot_5**](https://raw.githubusercontent.com/dhairyashah1/CodeCrafters-CourseSuggestingWebApp/master/coursespot/screenshots/CourseSpot_5.PNG)
+
+![**CourseSpot_6**](https://raw.githubusercontent.com/dhairyashah1/CodeCrafters-CourseSuggestingWebApp/master/coursespot/screenshots/CourseSpot_6.PNG)
+
+![**CourseSpot_7**](https://raw.githubusercontent.com/dhairyashah1/CodeCrafters-CourseSuggestingWebApp/master/coursespot/screenshots/CourseSpot_7.PNG)
+
+![**CourseSpot_8**](https://raw.githubusercontent.com/dhairyashah1/CodeCrafters-CourseSuggestingWebApp/master/coursespot/screenshots/CourseSpot_8.PNG)

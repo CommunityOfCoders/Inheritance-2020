@@ -1,5 +1,5 @@
 ---
-title: twAIn
+title: TwAIn
 permalink: "/submissions/:title"
 team_name: GoogleKarnaHamseSikho
 description: "An AI that generates amazing stories!"
@@ -136,4 +136,5 @@ There are 45 sample stories preloaded and take about 3 seconds to load.
 ## 🖼 Screenshots
 
 ![Web App](https://drive.google.com/uc?export=view&id=1JNdp6u6c2waackYbFuUYu9wlTa3jJmhD)
+
 ![Mobile App](https://drive.google.com/uc?export=view&id=1mv1-QscqL9SuohiMJahynXNqne28llg9)

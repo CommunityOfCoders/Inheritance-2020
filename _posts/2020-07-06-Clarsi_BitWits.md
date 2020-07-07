@@ -123,7 +123,15 @@ flutter packages get && flutter run
 --------------
 
 
-![](https://github.com/azeez-72/BitWits/blob/master/Screenshots/login_page.png) ![](https://github.com/azeez-72/BitWits/blob/master/Screenshots/announcements_page.jpg) ![](https://github.com/azeez-72/BitWits/blob/master/Screenshots/assignment_page.jpg)
+![](https://raw.githubusercontent.com/azeez-72/BitWits/master/Screenshots/login_page.png) 
 
-![](https://github.com/azeez-72/BitWits/blob/master/Screenshots/assignment_description.jpg) ![](https://github.com/azeez-72/BitWits/blob/master/Screenshots/classmates_page.jpg)![](https://github.com/azeez-72/BitWits/blob/master/Screenshots/more_options_page.jpg)
+![](https://raw.githubusercontent.com/azeez-72/BitWits/master/Screenshots/announcements_page.jpg) 
+
+![](https://raw.githubusercontent.com/azeez-72/BitWits/master/Screenshots/assignment_page.jpg)
+
+![](https://raw.githubusercontent.com/azeez-72/BitWits/master/Screenshots/assignment_description.jpg) 
+
+![](https://raw.githubusercontent.com/azeez-72/BitWits/master/Screenshots/classmates_page.jpg)
+
+![](https://raw.githubusercontent.com/azeez-72/BitWits/master/Screenshots/more_options_page.jpg)
 

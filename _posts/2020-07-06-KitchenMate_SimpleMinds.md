@@ -97,6 +97,6 @@ flutter install
 
 <!-- ACKNOWLEDGEMENTS AND REFERENCES -->
 ## Acknowledgements and Resources
-*   [COC](https://github.com/CommunityOfCoders/Inheritance-2020.git)Inheritance 2020
+*   [COC](https://github.com/CommunityOfCoders/Inheritance-2020.git) Inheritance 2020
 
 

@@ -104,4 +104,4 @@ python appapi.py
 
 ## Screenshots
 
-![App_screenshot](https://user-images.githubusercontent.com/64036185/86537876-dceaa000-bf0f-11ea-91d8-2c87747c310d.jpg)
+![App_screenshot](https://user-images.githubusercontent.com/64036185/86537876-dceaa000-bf0f-11ea-91d8-2c87747c310d.jpg){: style="height: 500px"}
