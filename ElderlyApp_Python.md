@@ -19,7 +19,7 @@ This is a flutter Application developed to help elders regarding their medical d
 
 * :octocat:[App on GitHub](https://github.com/Mayuresh351/Elderly_App.git)
 
-* DRIVE LINK:[App Video](https://drive.google.com/file/d/1Dt0ogGWINYJWQA0FEHdTnqze-LF2xfir/view?usp=drivesdk)
+* DRIVE LINK FOR APP VIDEO:[App Video](https://drive.google.com/file/d/1Dt0ogGWINYJWQA0FEHdTnqze-LF2xfir/view?usp=drivesdk)
 
 ## TECHNOLOGY STACK:
 
@@ -49,6 +49,8 @@ We are working on how you can order medicines directly from our app.
 Working on how you can get to your doctor or the nearby doctors you have visited and marking your home location using Google map.
 
 ## APP SCREENSHOTS:
+
+* DRIVE LINK FOR SCREENSHOTS:[SCREENSHOT IMAGES](https://drive.google.com/folderview?id=1MFY5v1l5PIEHo1Xv9NN8OOWMJHs0qTR9)
  
  Here are some app screenshots.
 
