@@ -152,9 +152,10 @@ var myChart = new Chart(ctx, {
     },
     legend: {
       position: "right",
-      align: "start",
+      align: "center",
       labels: {
         fontColor: "#fff",
+        fontSize: 10,
       }
     },
   },

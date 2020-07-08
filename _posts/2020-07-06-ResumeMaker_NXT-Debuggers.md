@@ -28,7 +28,8 @@ Our project is a web-based app.This app aims to provide a simple and professiona
 
 The Homepage mainly consists of:
 1. A navbar with four buttons(nav-pills) and the app icon.
-![Navbar](Navbar.png)
+![Navbar](https://raw.githubusercontent.com/CommunityOfCoders/Inheritance-2020/master/assets/images/Navbar.png)
+
     1. Home : Displays the homepage.
 
     2. Make Resume :This button will redirect the user the page to select templates.
@@ -37,41 +38,45 @@ The Homepage mainly consists of:
     
     4. About Us : It gives a brief description about the project and our motive.There is also a button "***More about the creators***" which opens four collapsible bootstrap cards which provide further information about the team members and a clickable icon of LinkedIn which will redirect the user to the LinkedIn profile of that particular team member,in another tab.
 
-    ![About us](About_us.png)
+    ![About us](https://raw.githubusercontent.com/CommunityOfCoders/Inheritance-2020/master/assets/images/About_us.png)
 
 1. A slideshow displaying the available resume templates.We currently have provided four resume templates.
-   ![Slideshow](Slideshow.png)
 
-2. A footer containing the link to a google feedback form .
-    ![Feedback](Feedback.png)
+![Slideshow](https://raw.githubusercontent.com/CommunityOfCoders/Inheritance-2020/master/assets/images/Slideshow.png)
+
+2. A footer containing the link to a google feedback form.
+
+![Feedback](https://raw.githubusercontent.com/CommunityOfCoders/Inheritance-2020/master/assets/images/Feedback.png)
 
 > ### Template Page
 
 The Template page consists of four different templates      (which can be seen in the homepage as well) where you will have the miniaturised version of the templates which are clickable.On clicking you a readable version of the template will be displayed with a  "***Select Template***" button, a "***Close***" button and another button close button with the "**x**" symbol . After clicking on "***Select Template***" a collapsible button  "***go to input page***" wil appear which on clicking will direct you to the input page.
 
-![Template Page](Template%20Page.png)
+![Template Page](https://raw.githubusercontent.com/CommunityOfCoders/Inheritance-2020/master/assets/images/Template%20Page.png)
 
 > ### Input Page
 
 This is page where the user will provide details which he/she wants to be displayed in his/her resume.
-![Input Page](Input%20Page%201.png)
+
+![Input Page](https://raw.githubusercontent.com/CommunityOfCoders/Inheritance-2020/master/assets/images/Input%20Page%201.png)
 <br>
-<br>
-![Input Page end](Input%20Page%202.png)
+
+![Input Page end](https://raw.githubusercontent.com/CommunityOfCoders/Inheritance-2020/master/assets/images/Input%20Page%202.png)
 
 
 > ### Resume Viewing Page
  
 The LaTeX generated pdf of resume will be shown here with option to download and a button at the top to redirect you to the homepage after completing the downloading part.
 
-![View PDF](View_pdf.png)
+![View PDF](https://raw.githubusercontent.com/CommunityOfCoders/Inheritance-2020/master/assets/images/View_pdf.png)
 
 In the above image as you can see the "***Sign Out and/or Go to Home Page***" will redirect you to the homepage
 
-![Download](Download.png)
+![Download](https://raw.githubusercontent.com/CommunityOfCoders/Inheritance-2020/master/assets/images/Download.png)
+
 By Clicking on "**Download**" icon you would get a dialog box where you can save pdf on your device(*This is for the user who use Chrome browser*) 
 
-![Download2](Download2.png)
+![Download2](https://raw.githubusercontent.com/CommunityOfCoders/Inheritance-2020/master/assets/images/Download2.png)
 
 After downloading you get a box with downloaded pdf at the bottom of your page in Chrome
 
@@ -101,13 +106,9 @@ After downloading you get a box with downloaded pdf at the bottom of your page i
     *  ` pip install Flask `
     *  ` pip install -r requirements.txt `
   
-
-
-
-
-
 ## Usage
 1. **User enters the Homepage:**
+
     1. If you want to make a resume without login or signup:
     
         * If on PC : Click on the "Make Resume" button in the navbar or the "Make your professional resume now!" button below the slideshow.
@@ -116,12 +117,15 @@ After downloading you get a box with downloaded pdf at the bottom of your page i
     * If you want to know About the project and the creators
 
         * If on PC :click on the "About Us" button in the navbar.A brief description about the project and the team will be displayed along with a button which opens a collapsible tab which on clicking will provide further information about the team.
+
         * If on Mobile: Click the the button on the top-right corner of the homepage to open a collapsible navbar.Click on the "About Us" button and the same contents as above will be displayed.
+
 ---
 2. **User enters the Template Page:**
     1. There will be four miniaturised versions of the resume temlpates which will be clickable.
     On clicking any of the four boxes , a readable version of that particular resume template will be displayed.This readable image will also come with "x" button in the top-right corner to close it as well as a "close" and "Select Template" button after the image of the template.
     2. On clicking the "Select Template" button ,a collapsible "Go to Input Page" button which on clicking will direct the user to the Input Page.
+    
 ---
 3. **User enters the template page:**\
         There will be totally about 30 primary input fields in which the number of some input fields can be increased if required.These input fields are divided into parts and will be displayed,on pressing the "next" button, in a certain order .The user can go back and forth between these parts using the "back" and "next" button respectively.
