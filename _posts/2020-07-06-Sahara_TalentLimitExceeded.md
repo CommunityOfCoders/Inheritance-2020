@@ -101,33 +101,23 @@ So maybe if we can integrate exisiting companies' APIs,it can be a great milesto
 
 ## Screenshots 
 
-![Image1](https://raw.githubusercontent.com/vaishnavirshah/TLE/master/App_Screenshots/Screenshot_20200705-193516.png ){: style="height: 500px"}
-
-![Image2](https://raw.githubusercontent.com/vaishnavirshah/TLE/master/App_Screenshots/Screenshot_20200705-193527.png ){: style="height: 500px"}
-
+![Image1](https://raw.githubusercontent.com/vaishnavirshah/TLE/master/App_Screenshots/Screenshot_20200705-193516.png ){: style="height: 500px; margin-left:10px; margin-bottom:10px;"}
+![Image2](https://raw.githubusercontent.com/vaishnavirshah/TLE/master/App_Screenshots/Screenshot_20200705-193527.png ){: style="height: 500px; margin-left:10px; margin-bottom:10px;"}
 ### Donor Interface
 
-![Image3](https://raw.githubusercontent.com/vaishnavirshah/TLE/master/App_Screenshots/Screenshot_20200705-195213.png){: style="height: 500px"}
-
-![Image4](https://raw.githubusercontent.com/vaishnavirshah/TLE/master/App_Screenshots/Screenshot_20200705-195224.png){: style="height: 500px"}
-
-![Image5](https://raw.githubusercontent.com/vaishnavirshah/TLE/master/App_Screenshots/Screenshot_20200705-195030.png"){: style="height: 500px"}
-
-![Image6](https://raw.githubusercontent.com/vaishnavirshah/TLE/master/App_Screenshots/Screenshot_20200705-195038.png){: style="height: 500px"}
+![Image3](https://raw.githubusercontent.com/vaishnavirshah/TLE/master/App_Screenshots/Screenshot_20200705-195213.png){: style="height: 500px; margin-left:10px; margin-bottom:10px;"}
+![Image4](https://raw.githubusercontent.com/vaishnavirshah/TLE/master/App_Screenshots/Screenshot_20200705-195224.png){: style="height: 500px; margin-left:10px; margin-bottom:10px;"}
+![Image5](https://raw.githubusercontent.com/vaishnavirshah/TLE/master/App_Screenshots/Screenshot_20200705-195030.png){: style="height: 500px; margin-left:10px; margin-bottom:10px;"}
+![Image6](https://raw.githubusercontent.com/vaishnavirshah/TLE/master/App_Screenshots/Screenshot_20200705-195038.png){: style="height: 500px; margin-left:10px; margin-bottom:10px;"}
 
 ### Receiver Interface
 
-![Image7](https://raw.githubusercontent.com/vaishnavirshah/TLE/master/App_Screenshots/Screenshot_20200705-195436.png ){: style="height: 500px"}
-
-![Image](https://raw.githubusercontent.com/vaishnavirshah/TLE/master/App_Screenshots/Screenshot_20200705-195445.png){: style="height: 500px"}
-
-![Image](https://raw.githubusercontent.com/vaishnavirshah/TLE/master/App_Screenshots/Screenshot_20200705-195411.png ){: style="height: 500px"}
-
-![Image](https://raw.githubusercontent.com/vaishnavirshah/TLE/master/App_Screenshots/Screenshot_20200705-195518.png ){: style="height: 500px"}
-
-![Image](https://raw.githubusercontent.com/vaishnavirshah/TLE/master/App_Screenshots/InkedScreenshot_20200705-195533_LI.jpg ){: style="height: 500px"}
-
-![Image](https://raw.githubusercontent.com/vaishnavirshah/TLE/master/App_Screenshots/Screenshot_20200705-195540.png){: style="height: 500px"}
+![Image7](https://raw.githubusercontent.com/vaishnavirshah/TLE/master/App_Screenshots/Screenshot_20200705-195436.png ){: style="height: 500px; margin-left:10px; margin-bottom:10px;"}
+![Image](https://raw.githubusercontent.com/vaishnavirshah/TLE/master/App_Screenshots/Screenshot_20200705-195445.png){: style="height: 500px; margin-left:10px; margin-bottom:10px;"}
+![Image](https://raw.githubusercontent.com/vaishnavirshah/TLE/master/App_Screenshots/Screenshot_20200705-195411.png ){: style="height: 500px; margin-left:10px; margin-bottom:10px;"}
+![Image](https://raw.githubusercontent.com/vaishnavirshah/TLE/master/App_Screenshots/Screenshot_20200705-195518.png ){: style="height: 500px; margin-left:10px; margin-bottom:10px;"}
+![Image](https://raw.githubusercontent.com/vaishnavirshah/TLE/master/App_Screenshots/InkedScreenshot_20200705-195533_LI.jpg ){: style="height: 500px; margin-left:10px; margin-bottom:10px;"}
+![Image](https://raw.githubusercontent.com/vaishnavirshah/TLE/master/App_Screenshots/Screenshot_20200705-195540.png){: style="height: 500px; margin-left:10px; margin-bottom:10px;"}
 
 
 ## ScreenRecording
