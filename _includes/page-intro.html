@@ -9,9 +9,10 @@
     margin: auto;
   }
 
-  .mySlides {display: none}
+  .mySlides {display: none; text-align:center}
   .slide-image{
-    width: 100%;
+    width: 40%;
+    margin: 0 auto;
   }  
 
   /* Next & previous buttons */
@@ -109,25 +110,34 @@
   <div class="slideshow-container">
 
     <div class="mySlides fade">
-      <img class="slide-image" src="https://image.slidesharecdn.com/inheritancecontinues-1223274749680392-9/95/c-inheritance-composition-polymorphism-38-728.jpg?cb=1332142453">
+      <img class="slide-image" src="{{ "assets/images/image0.jpeg" }}" style="height:25%;">
+    </div>
+    
+    <div class="mySlides fade">
+      <img class="slide-image" src="{{ "assets/images/image1.jpeg" }}">
+    </div>
+    
+    <div class="mySlides fade">
+      <img class="slide-image" src="{{ "assets/images/image2.jpeg" }}">
+    </div>
+    
+    <div class="mySlides fade">
+      <img class="slide-image" src="{{ "assets/images/image3.jpeg" }}" style="height:25%;">
+    </div>
+    
+    <div class="mySlides fade">
+      <img class="slide-image" src="{{ "assets/images/image4.jpeg" }}">
+    </div>
+    
+    <div class="mySlides fade">
+      <img class="slide-image" src="{{ "assets/images/image5.jpeg" }}">
     </div>
 
-    <div class="mySlides fade">
-      <img class="slide-image" src="https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500">
-    </div>
-    
-    <div class="mySlides fade">
-      <img class="slide-image" src="https://iso.500px.com/wp-content/uploads/2016/04/stock-photo-150595123.jpg">
-    </div>
-    
-    <div class="mySlides fade">
-      <img class="slide-image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzvGSX3gJcyWlYooizsDmIfIJqvPjsn5FSRw&usqp=CAU">
-    </div>
-    
     <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
     <a class="next" onclick="plusSlides(1)">&#10095;</a>
     
-    </div>
+  </div>
+
     <br>
     
     <div style="text-align:center">
@@ -135,6 +145,8 @@
       <span class="dot" onclick="currentSlide(2)"></span> 
       <span class="dot" onclick="currentSlide(3)"></span> 
       <span class="dot" onclick="currentSlide(4)"></span> 
+      <span class="dot" onclick="currentSlide(5)"></span> 
+      <span class="dot" onclick="currentSlide(6)"></span>
     </div>
   {% endif %}
   <div class="inner">
