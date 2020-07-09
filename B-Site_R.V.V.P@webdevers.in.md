@@ -13,7 +13,7 @@
 
 - Riya Gupta
 - Hrim Gandhi
-- Akshat Salve
+- Akshat Salva
 
 ## Description
 
