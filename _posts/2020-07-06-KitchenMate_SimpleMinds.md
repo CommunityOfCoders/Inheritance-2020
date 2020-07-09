@@ -34,7 +34,11 @@ description: "The perfect kitchen mate. It helps you to maintain your shopping l
 * [Acknowledgements and Resources](#acknowledgements-and-resources)
 
 ## About The Project
-<img src="https://github.com/Kushal-Ajay-Shah/Kitchen_Mate/blob/master/screenshots/Page_1.png" height = 450/> <img src="https://github.com/Kushal-Ajay-Shah/Kitchen_Mate/blob/master/screenshots/Page_3.png" height = 450/> <img src="https://github.com/Kushal-Ajay-Shah/Kitchen_Mate/blob/master/screenshots/Page_4.png" height = 450/> <img src="https://github.com/Kushal-Ajay-Shah/Kitchen_Mate/blob/master/screenshots/Page_5.png" height = 450/> <img src="https://github.com/Kushal-Ajay-Shah/Kitchen_Mate/blob/master/screenshots/Page_9.png" height = 450/>
+![Alt text](https://raw.githubusercontent.com/Kushal-Ajay-Shah/Kitchen_Mate/master/screenshots/Page_1.png){: style="height: 500px; margin-left:10px; margin-bottom:10px;"} 
+![Alt text](https://raw.githubusercontent.com/Kushal-Ajay-Shah/Kitchen_Mate/master/screenshots/Page_3.png){: style="height: 500px; margin-left:10px; margin-bottom:10px;"}
+![Alt text](https://raw.githubusercontent.com/Kushal-Ajay-Shah/Kitchen_Mate/master/screenshots/Page_4.png){: style="height: 500px; margin-left:10px; margin-bottom:10px;"} 
+![Alt text](https://raw.githubusercontent.com/Kushal-Ajay-Shah/Kitchen_Mate/master/screenshots/Page_5.png){: style="height: 500px; margin-left:10px; margin-bottom:10px;"} 
+![Alt text](https://raw.githubusercontent.com/Kushal-Ajay-Shah/Kitchen_Mate/master/screenshots/Page_9.png){: style="height: 500px; margin-left:10px; margin-bottom:10px;"}
  
 
 ### Description
@@ -82,11 +86,11 @@ or
 flutter install
 ```
 ## Future Work
-- [ ] Price Comparer in the shopping list for online stores 
-- [ ] Meal Planning suggestions based on the primary diet
-- [ ] Shopping list automatic suggestions
-- [ ] Shopping reminders
-- [ ] Speech input
+- Price Comparer in the shopping list for online stores 
+- Meal Planning suggestions based on the primary diet
+- Shopping list automatic suggestions
+- Shopping reminders
+- Speech input
 
 ## Troubleshooting
 ```
