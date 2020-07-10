@@ -87,7 +87,7 @@ The links for details are given below :
 
 # **Project Setup**
 The game can be installed on your desktop/pc through suppllied application setup. The link is given below.
-#### [Link for download](https://drive.google.com/file/d/1_lM6Cg47h6kuRNjmIlBaMc7IDp54uhRF/view?usp=sharing)
+#### [Link for download](https://drive.google.com/file/d/1jXvImX5CslbmP7NiMgQzPqBF-wZS5ait/view?usp=drivesdk)
 
 # **Usage**
 After the user has installed the application, he just has to open the game and the main menu will appear stating a 'PLAY' , 'ABOUT' and 'EXIT' key. The user will further be guided by instructions as to how to advance in the game.
