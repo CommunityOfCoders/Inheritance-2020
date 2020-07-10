@@ -56,16 +56,16 @@ What our app basically does is
 ## Future scope
 
 Some features which can be added are as follows :
-###Filters
+### Filters
 adding sorting filters(based on cost, name, etc) and seraching filters(based on facilities provided like Food,Furnishment,AC,etc) would help user to more easily locate the required hostel.
 
-###Chat Feature 
+### Chat Feature 
 adding a chat feature and being able to talk with owner in the app itself would give a more lively experience.
 
-###live location
+### live location
 accessing the live location would make the user locate that particular hostel more easily,
 
-###Reviews, wallet and redeem code options
+### Reviews, wallet and redeem code options
 enabling a comment section below each site would make the user more aware about what the actual situation is and its always the user reviews which make us aware about the quality, service and other features.
 Also wallet points gained on bringing other users through code would also help users to bring more and more users to this app.
 
