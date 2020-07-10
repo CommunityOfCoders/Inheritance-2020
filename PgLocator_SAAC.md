@@ -17,7 +17,7 @@ PG-Locator - as the name suggests locates Pg/Hostels based on users requisites a
 
 
 * GitHub repo link: [Link to repository](https://github.com/shreyashegde-21/SACC)
-* Drive link: [Drive link here](https://drive.google.com/folderview?id=1wEgEBI8cepPz_XSFEjUg1LZR17UeiUsC)
+* Drive link: [Drive link here](https://drive.google.com/drive/folders/1m2MCiZcFYFVD5oZ0zmrwH5hooEZvPowh?usp=sharing)
 
 ## Technology stack
 
