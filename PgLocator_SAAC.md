@@ -1,7 +1,5 @@
 # PgLocator_SAAC
 
-### Team name: your-team-name
-
 ## Team members
 * Shreyas Hegde - hegdeshreyas214@gmail.com
 * Chinmay Janwalkar - janwalkar.cs@gmail.com
