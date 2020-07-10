@@ -98,7 +98,17 @@ The game can be additionally developed by adding some features of reward system.
 
 
 # **Screenshots**
-1.[The ship](https://drive.google.com/file/d/1HuQA-kR_Ox5hz0bSvBZ13301ryDWC-rm/view?usp=drivesdk)
-2. [The lab](https://drive.google.com/folderview?id=1HwtYJs-vcISVnBf1yM8YZ2tKlnczsgxL)
-3.[The aliens](https://drive.google.com/folderview?id=1IQ2UKcLyQU0oD49XZexVoyRu_pXWXN-s)
-4.[The scientist](https://drive.google.com/folderview?id=1Ia7-kZPmzAAuEMYdnqjWZXh8nS-6t0fk)
+1. ### The ship
+![The ship](https://drive.google.com/uc?export=view&id=1HuQA-kR_Ox5hz0bSvBZ13301ryDWC-rm)
+
+2. ### The lab
+![The lab](https://drive.google.com/uc?export=view&id=1IL0AU9fnf-8-l6oD9IWsfHu6go4MVd7B)
+
+3. ### Image of lab
+![Image of Lab](https://drive.google.com/uc?export=view&id=1I6hhryKGoVSWEfEf6gaaq8kgx2nyjU6j)
+
+4. ### The Alien
+![The aliens](https://drive.google.com/uc?export=view&id=1IQKPY3_zunpkjjcm3F9YS6Pvo-VZj2Fz)
+
+5. ### The Scientist
+![The scientist](https://drive.google.com/uc?export=view&id=1Icvbeng4V6nd7HfStchViKcnAsAxmXkv)
