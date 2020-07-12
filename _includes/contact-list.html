@@ -7,17 +7,21 @@
       >
     </a>
   </li>
-  {% endif %} {% if site.github_username %}
+  {% endif %} 
+  {% if site.github_username %}
+    <li>
+      {% include icon-github.html username=site.github_username label='GitHub' %}
+    </li>
+  {% endif %} 
   <li>
-    {% include icon-github.html username=site.github_username label='GitHub' %}
+    {% include icon-youtube.html username="https://www.youtube.com/playlist?list=PLJnQSU-Gw1Zx1N6IRFDSSkpCQvt-tifRg" label='YouTube' %}
   </li>
-  {% endif %} {% if site.twitter_username %}
+  {% if site.twitter_username %}
   <li>
     {% include icon-twitter.html username=site.twitter_username label='Twitter'
     %}
   </li>
-  {% endif %}
-  
+  {% endif %} 
   <!-- <li>
     {% if site.plugins contains 'jekyll-feed' or site.gems contains 'jekyll-feed' %}
       <a href="{{ site.feed.path | default: 'feed.xml' | relative_url }}" title="Atom Feed">
