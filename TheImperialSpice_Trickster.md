@@ -16,7 +16,7 @@ Users can pay online using debit card making it easy to order online as well as 
 
 **Link to repository**
 * Github Repository :https://github.com/ShreyashWasnik/Trickster
-* Google Drive Link :https://drive.google.com/file/d/1HnTn8lk2DQv-MN20VfBAOVl37WBCvlGM/view?usp=sharing
+* Google Drive Link :https://drive.google.com/uc?export=view&id=1HnTn8lk2DQv-MN20VfBAOVl37WBCvlGM
 
 ### Technology stack ###
 ##### FRONTEND: #####
@@ -45,9 +45,16 @@ Users can pay online using debit card making it easy to order online as well as 
 * Adding a Store Locator.
 * Helping nearby local restaurant to setup online platform. 
 ### Screenshots ###
-* https://drive.google.com/file/d/1SEeAXYWzp3zeM7aU_UbbvgzHjpUpzhaZ/view?usp=sharing
-* https://drive.google.com/file/d/1Xxjn2mQMqIqaqRiLpyyWPLNllQ_pLtIK/view?usp=sharing
-* https://drive.google.com/file/d/19kDT7znY9jgrj-mEJRN0sjy-qxAPmkK4/view?usp=sharing
-* https://drive.google.com/file/d/1kqGw9AjYOS4y5MqFZ8wchmZdAxhg-q8T/view?usp=sharing
-
+* ![home1](https://drive.google.com/uc?export=view&id=1pGJ9qbwhKGAgNPyqcwEYNdPjJ3I-vDOa)
+* ![home2](https://drive.google.com/uc?export=view&id=1gLxMgsJUqMNPOmhNlG_r7e9HAUVLCSsw)
+* ![home3](https://drive.google.com/uc?export=view&id=1aRcRD3gcZCfk9nVAQY8wC1ykst4SvuUQ)
+* ![home4](https://drive.google.com/uc?export=view&id=1epfZiDISIdXKgrDXlFt6jXNGdJ8azQWE)
+* ![booking](https://drive.google.com/uc?export=view&id=1_VuVbYTT2VqYW2NHc60fGhhlHG_677GN)
+* ![cart](https://drive.google.com/uc?export=view&id=1fhRG36CAtXg_GdDYtAg1YPxe7iUVmIgU)
+* ![checkout](https://drive.google.com/uc?export=view&id=1kN6mnPUw-h_Jhxxhvz51WQIsjbiSQBar)
+* ![footer](https://drive.google.com/uc?export=view&id=1kTsusz-9YmDoUuNNz70kFOP6EJpudwYi)
+* ![login](https://drive.google.com/uc?export=view&id=1Gt4NKFkdT6gxyzgE2YQ3q44-0o4SqQOL)
+* ![menu](https://drive.google.com/uc?export=view&id=1fa8zCHeXc3Z4Oqs6PdxlIcqpcwAXc958)
+* ![profile](https://drive.google.com/uc?export=view&id=1Kpe-M-860zN6j1DLR_RfQKCxA3Ynagqh)
+* ![registration](https://drive.google.com/uc?export=view&id=1h80u64v3MB8bGWjvL5WvS-iFSgzyFStg)
 
