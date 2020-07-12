@@ -5,7 +5,7 @@
     Free for personal and commercial use under the MIT license
     https://github.com/mmistakes/jekyll-theme-basically-basic/blob/master/LICENSE
 -->
-<link rel="icon" href="assets/images/logo.png" type="image/icon type">
+<link rel="icon" href="{{ "/assets/images/logo.png" | prepend: site.baseurl | prepend: site.url }}" type="image/icon type">
 <html lang="{{ page.lang | default: site.lang | default: 'en-US' }}" class="no-js">
   {% include head.html %}
 
